@@ -1,9 +1,10 @@
 {
-  "name": "react--udemy",
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "shoply",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite"
   },
   "repository": {
     "type": "git",
