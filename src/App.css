@@ -344,6 +344,9 @@
   .category-grid {
     grid-template-columns: repeat(3, 1fr);
   }
+  .grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
   .product-grid {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -380,6 +383,7 @@
   .hero { padding: 3rem 0 2rem; }
   .hero-text h1 { font-size: 2rem; }
   .category-grid { grid-template-columns: repeat(2, 1fr); }
+  .grid-3 { grid-template-columns: 1fr; }
   .product-grid { grid-template-columns: repeat(2, 1fr); }
   .cta-actions { display: grid; grid-template-columns: 1fr; }
   .footer-grid {
